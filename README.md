@@ -29,12 +29,12 @@ I'm a passionate developer specializing in **Flutter**, **Next.js**, and **Angul
 ---
 
 ### 📊 GitHub Stats
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanbebido&show_icons=true&theme=react&hide_border=true)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bebialen&show_icons=true&theme=react&hide_border=true)
 
 ---
 
 ### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanbebido&layout=compact&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebialen&layout=compact&theme=react&hide_border=true)
 
 ---
 
